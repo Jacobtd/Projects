@@ -1,0 +1,3 @@
+While I have done work in many different programming languages, the two I am most versed in are C and Java. The Java program listed in this file shows my proficiency in programming code across multiple files,
+as well as my knowledge of concepts like Semaphores and how they can be implemented in code that requires multiple different useres access to different files. The other two files, both written in C, show my ability
+to create functioning C code that accomplishes specific goals and is also readable and understandable for other programmers who may have to go back and make changes or updates to my work. 
